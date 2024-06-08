@@ -1,0 +1,13 @@
+../freeRtos/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c:180:15:pxPortInitialiseStack	1
+../freeRtos/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c:200:13:prvTaskExitError	3
+../freeRtos/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c:226:6:SVC_Handler	1
+../freeRtos/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c:246:13:prvPortStartFirstTask	1
+../freeRtos/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c:267:12:xPortStartScheduler	3
+../freeRtos/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c:365:6:vInitPrioGroupValue	3
+../freeRtos/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c:441:6:vPortEndScheduler	2
+../freeRtos/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c:449:6:vPortEnterCritical	3
+../freeRtos/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c:466:6:vPortExitCritical	3
+../freeRtos/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c:478:6:PendSV_Handler	1
+../freeRtos/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c:515:6:SysTick_Handler	2
+../freeRtos/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c:766:32:vPortSetupTimerInterrupt	1
+../freeRtos/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c:789:10:vPortValidateInterruptPriority	4
