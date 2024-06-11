@@ -124,6 +124,7 @@ int main(void)
   Task2_return = xTaskCreate( Task_2_Handler, "Task_2", 100, NULL, 2, &Task_2_handle );
   Task3_return = xTaskCreate( Task_3_Handler, "Task_3", 100, NULL, 3, &Task_3_handle );
 
+  vTaskStartScheduler();
   /* USER CODE END 2 */
 
   /* Infinite loop */
